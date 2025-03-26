@@ -46,3 +46,11 @@ h1 {
 .lang-btn:hover {
     background-color: #16a34a;
 }
+
+.input-field {
+    width: 100%;
+    padding: 14px 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 16px;
+}
